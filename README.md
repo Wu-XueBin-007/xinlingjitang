@@ -8,7 +8,7 @@
 ## 小程序数据演示
 
 <img src='Demonstration%20(1).jpg' width=375 />
-<br>hr<br>
+<br>------------------------------------------<br>
 <img src='Demonstration%20(4).jpg' width=375 />
 
 ## 扫码体验:
