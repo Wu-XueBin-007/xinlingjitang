@@ -7,11 +7,9 @@
 
 ## 小程序数据演示
 
-![mahua2](Demonstration%20(1).jpg)
-
-
-![mahua4](Demonstration%20(4).jpg)
+<img src='Demonstration%20(1).jpg' width=375 />
+<br>hr<br>
+<img src='Demonstration%20(4).jpg' width=375 />
 
 ## 扫码体验:
-
-![mahua](logo.png)
+<img src='logo.png' width=200 />
