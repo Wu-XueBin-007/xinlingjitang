@@ -6,9 +6,9 @@
 [小程序图片]:logo.png
 ![小程序图片]
 效果演示：
-[小程序图片1]:Demonstration%20(1).jpg
-[小程序图片2]:Demonstration%20(2).jpg
-[小程序图片2]:Demonstration%20(3).jpg
+[小程序图片1]:Demonstration (1).jpg
+[小程序图片2]:Demonstration (1).jpg
+[小程序图片2]:Demonstration (1).jpg
 ![小程序图片1]
 ![小程序图片2]
 ![小程序图片3]
