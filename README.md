@@ -1,7 +1,7 @@
 # xinlingjitang
 
 
-本项目为个人练习项目
+#本项目为个人练习项目
 
 python 爬取心灵鸡汤 储存为jitang.json
 
