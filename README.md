@@ -5,7 +5,7 @@
 
 python 爬取心灵鸡汤 储存为jitang.json
 
-[小程序图片]:(./下载.png)
+[小程序图片]:(https://github.com/Wu-XueBin-007/xinlingjitang/blob/master/%E4%B8%8B%E8%BD%BD.png)
 
 ![小程序图片]
 
