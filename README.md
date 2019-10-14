@@ -1,6 +1,8 @@
 # python 爬取心灵鸡汤 
 ## 介绍
 本项目为个人练习
+
+
 目标网站：http://www.59xihuan.cn/
 
 
