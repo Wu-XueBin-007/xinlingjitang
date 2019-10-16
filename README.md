@@ -1,9 +1,6 @@
-# python 爬取心灵鸡汤 
+# python 爬取某鸡汤 
 ## 介绍
 本项目为个人练习
-
-
-目标网站：http://www.59xihuan.cn/
 
 
 运行xinlingjitang.py
@@ -17,5 +14,6 @@
 <img src='Demonstration%20(1).jpg' width=375 />
 <br>===================================<br>
 <img src='Demonstration%20(4).jpg' width=375 />
+
 
 
