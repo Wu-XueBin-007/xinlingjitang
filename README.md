@@ -18,5 +18,4 @@
 <br>===================================<br>
 <img src='Demonstration%20(4).jpg' width=375 />
 
-## 扫码体验:
-<img src='logo.png' width=200 />
+
