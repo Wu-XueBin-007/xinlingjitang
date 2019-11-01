@@ -5,7 +5,7 @@
 
 运行xinlingjitang.py
 
-运行完成 数据保存在jitang.json中
+运行完成 数据保存在xinlingjitang.json中
 
 我已经把数据导入我的小程序云开发数据库中，以下是小程序预览
 
